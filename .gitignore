@@ -1,0 +1,5 @@
+# 忽略全部文件，仅上传发布产物
+/*
+!/.gitignore
+!/README.md
+!/liuyao-v*.apk
